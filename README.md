@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Keane</h1>
-<h3 align="center">A Data Science and Machine Learning Enthusiast.</h3>
+<h3 align="center">A Data Enthusiast.</h3>
 
 
 
-- 👨‍💻 I’m currently working on **Machine Learning, Data Science and Generative AI**
+- 👨‍💻 I’m currently working on **Data Engineering**
 
-- 📚 I’m currently learning **Web Scraping, Streamlit**
+- 📚 I’m currently learning **Airflow, DBT and Concepts of Data Engineering**
 
-- 👥 I’m looking to collaborate on **Hackathons and Machine Learning projects**
+- 👥 I’m looking to collaborate on **Hackathons and projects**
 
 - 💬 Ask me about **Python and Machine learning**
 
